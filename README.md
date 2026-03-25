@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Frontend Developer | UI/UX Enthusiast | Tech Explorer
+🚀 I craft sleek, responsive, and user‑friendly web experiences using HTML, CSS, JavaScript, and Bootstrap.
+🎨 Passionate about design systems, dynamic interfaces, and turning ideas into polished digital products.
+💡 Always learning new frameworks, experimenting with creative layouts, and pushing the boundaries of frontend development.
 <!--
 **Maxorleans55/Maxorleans55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
