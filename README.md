@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, max here:
 🛠 I’m currently working on a bulk SMS platform to streamline communication for businesses and organizations<br>🤝 I’m looking to collaborate on open-source academic tools or student-focused web apps<br>🌱 I’m currently learning Object-Oriented Programming (OOP) to build scalable and maintainable applications<br>💬 Ask me about bulk SMS platforms, responsive web development, probability proofs, and APA formatting
 
 
