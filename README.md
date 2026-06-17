@@ -1,6 +1,25 @@
-# 💫 Hi, max here:
-🛠 I’m currently working on a bulk SMS platform to streamline communication for businesses and organizations<br>🤝 I’m looking to collaborate on open-source academic tools or student-focused web apps<br>🌱 I’m currently learning Object-Oriented Programming (OOP) to build scalable and maintainable applications<br>💬 Ask me about bulk SMS platforms, responsive web development, probability proofs, and APA formatting
+# Hi, I'm Max
 
+I'm a frontend developer and CS student passionate about building scalable web applications and solving real-world problems through technology.
+
+### What I'm Working On
+- Developing a **School Management System** for my software engineering project
+- Building responsive web applications with focus on user experience and functionality
+
+### Looking to Collaborate On
+- Open-source academic tools
+- Student-focused web applications
+- Educational technology projects
+
+### Currently Learning
+- Object-Oriented Programming (OOP) to build scalable and maintainable applications
+- Full-stack development patterns and system design
+
+### Ask Me About
+- School management system architecture
+- Responsive web development techniques
+- Probability proofs and mathematical concepts
+- APA formatting and academic writing
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/orleans9405) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxwell-agyakwa-otsiwa) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/max_orleans55) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maotsiwa@st.ug.edu.gh) 
