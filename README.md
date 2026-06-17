@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b74b4b&height=200&section=header&text=Max's%20Portfolio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Student%20%7C%20Ghana&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Max's%20Portfolio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Student%20%7C%20Ghana&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-School%20Management%20System-b74b4b?style=for-the-badge" alt="Current Project"/>
+  <img src="https://img.shields.io/badge/Current%20Project-School%20Management%20System-FFD700?style=for-the-badge&logoColor=000" alt="Current Project"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Ghana-gold?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Ghana-0066FF?style=for-the-badge" alt="Location"/>
 </p>
 <br/>
 <p align="center">
