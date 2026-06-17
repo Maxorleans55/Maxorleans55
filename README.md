@@ -4,13 +4,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Current%20Project-School%20Management%20System-FFD700?style=for-the-badge&logoColor=000" alt="Current Project"/>
-  &nbsp;
+ 
   <img src="https://img.shields.io/badge/Location-Ghana-0066FF?style=for-the-badge" alt="Location"/>
 </p>
 <br/>
 <p align="center">
-  <strong>Frontend Developer | CS Student | Software Engineer | Open Source Enthusiast</strong>
+  <strong>Frontend Developer | CS Student  | Open Source Enthusiast</strong>
 </p>
 
 About Me
