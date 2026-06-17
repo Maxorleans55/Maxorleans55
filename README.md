@@ -1,25 +1,50 @@
-# Hi, I'm Max
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b74b4b&height=200&section=header&text=Max's%20Portfolio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Student%20%7C%20Ghana&descAlignY=60&descAlign=50" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-School%20Management%20System-b74b4b?style=for-the-badge" alt="Current Project"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Ghana-gold?style=for-the-badge" alt="Location"/>
+</p>
+<br/>
+<p align="center">
+  <strong>Frontend Developer | CS Student | Software Engineer | Open Source Enthusiast</strong>
+</p>
 
-I'm a frontend developer and CS student passionate about building scalable web applications and solving real-world problems through technology.
+About Me
 
-### What I'm Working On
-- Developing a **School Management System** for my software engineering project
-- Building responsive web applications with focus on user experience and functionality
+I'm a passionate frontend developer and computer science student from Ghana, focused on building scalable web applications and solving real-world problems through technology. Currently working on a comprehensive School Management System as my software engineering capstone project.
 
-### Looking to Collaborate On
-- Open-source academic tools
-- Student-focused web applications
-- Educational technology projects
 
-### Currently Learning
-- Object-Oriented Programming (OOP) to build scalable and maintainable applications
-- Full-stack development patterns and system design
+What I'm Working On
 
-### Ask Me About
-- School management system architecture
-- Responsive web development techniques
-- Probability proofs and mathematical concepts
-- APA formatting and academic writing
+ProjectDescriptionSchool Management SystemA comprehensive software engineering project for managing student records, courses, and administrative tasksResponsive Web ApplicationsBuilding user-centric applications with clean, maintainable code
+
+
+Looking to Collaborate On
+
+
+Open-source academic tools
+Student-focused web applications
+Educational technology solutions
+Community-driven projects
+
+
+
+Currently Learning
+
+Object-Oriented Programming (OOP) to build scalable and maintainable applications
+
+Focus areas:
+
+
+System design and architecture
+Design patterns
+Database optimization
+Full-stack development
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/orleans9405) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxwell-agyakwa-otsiwa) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/max_orleans55) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maotsiwa@st.ug.edu.gh) 
