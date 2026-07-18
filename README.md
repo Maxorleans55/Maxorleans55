@@ -9,7 +9,7 @@
 </p>
 <br/>
 <p align="center">
-  <strong>Frontend Developer | CS Student  | Open Source Enthusiast</strong>
+  <strong>Frontend Developer | Computer Science Student  | Open Source Enthusiast</strong>
 </p>
 
 About Me
