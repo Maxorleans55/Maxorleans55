@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000 &height=200&section=header&text=Max%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Science%20Student%20%7C%20Ghana&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=200&section=header&text=Max%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Science%20Student%20%7C%20Ghana&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
