@@ -56,16 +56,17 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
-
 ## 📊 GitHub Contributions
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxorleans55&theme=tokyonight&hide_border=true)](https://github.com/Maxorleans55)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxorleans55&theme=tokyonight&hide_border=true&card_width=800&background=141321&stroke=000000&ring=b74b4b&fire=b74b4b&currStreakLabel=b74b4b)](https://github.com/Maxorleans55)
+
+<br/>
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maxorleans55&theme=react-dark&hide_border=true&area=true&width=900)](https://github.com/Maxorleans55)
 
 </div>
-
-<div align="center">
 
 
 </div>
