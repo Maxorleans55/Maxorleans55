@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b74b4b&height=200&section=header&text=Max's%20Portfolio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Student%20%7C%20Ghana&descAlignY=60&descAlign=50" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://maxorleans55.github.io/Portfolio-Application-/">
+    <img src="https://img.shields.io/badge/%20Live%20Demo-Visit%20Portfolio-b74b4b?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Made%20with-%20in%20Ghana-gold?style=for-the-badge" alt="Made in Ghana"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B74B4B&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Pixel-Perfect+UI+Craftsman+%F0%9F%8E%A8;CS+Student+%40+University+of+Ghana+%F0%9F%8E%93;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+
+
 <!-- Stylish Header -->
 <div align="center">
   <h1>✨ Maxwell Agyakwa ✨</h1>
