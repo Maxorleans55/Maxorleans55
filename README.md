@@ -1,17 +1,17 @@
-<!-- Decorative Animated Header with Gradient -->
+<!-- Simple but Stylish Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Maxwell%20Agyakwa&fontSize=85&fontColor=ffffff&height=280&section=header&desc=Creative%20Developer%20%26%20Problem%20Solver&descSize=21&animation=fadeIn&fontAlignY=32&descAlignY=62" alt="Header" width="100%"/>
+  <h1>✨ Maxwell Agyakwa ✨</h1>
+  <h3>Creative Developer • Problem Solver • Innovator</h3>
+  
+  ![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&width=100)
 </div>
-
-<!-- Decorative Top Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" alt="Divider" width="100%"/>
 
 ---
 
 ## ✨ About
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&duration=5000&pause=800&color=00D9FF&center=true&width=600&lines=Crafting+Digital+Experiences;Modern+Frontend+Developer;Always+Learning%2C+Always+Growing" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=4000&pause=800&color=00D9FF&center=true&width=600&lines=Crafting+Digital+Experiences;Modern+Frontend+Developer;Always+Learning" alt="Typing Animation"/>
 </p>
 
 ---
@@ -20,15 +20,15 @@
 
 <table width="100%" align="center" cellpadding="20">
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <h3>💻 Code</h3>
       <p>Clean, modern JavaScript</p>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <h3>🎨 Design</h3>
       <p>Beautiful interfaces</p>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <h3>🚀 Build</h3>
       <p>Deploy fast solutions</p>
     </td>
@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
@@ -57,14 +59,27 @@
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxorleans55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxorleans55&theme=tokyonight&hide_border=true)](https://github.com/Maxorleans55)
+
 </div>
 
+---
+
+## 📈 Stats & Metrics
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxorleans55&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | 180+ |
+| **GitHub Joined** | 2025 |
+| **Current Streak** | 🔥 Active |
+| **Languages** | JavaScript, Java, Python |
+
 </div>
 
 ---
@@ -82,12 +97,15 @@
   <a href="https://linkedin.com/in/maxwell-agyakwa-otsiwa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Maxorleans55" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="mailto:maotsiwa@st.ug.edu.gh" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://twitch.tv/max_orleans55" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
@@ -95,13 +113,12 @@
 
 ---
 
-## 🎨 Skills
+## 🎨 Key Skills
 
 <div align="center">
 
-| ⚡ | 🎭 | 🔧 |
+| ⚡ Performance | 🎭 UI/UX | 🔧 Architecture |
 |:---:|:---:|:---:|
-| **Performance** | **UI/UX** | **Architecture** |
 | Fast & Responsive | Beautiful Design | Scalable Code |
 
 </div>
@@ -118,16 +135,11 @@
 
 ---
 
-<!-- Decorative Footer Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" alt="Divider" width="100%"/>
-
-<!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let%27s%20Create%20Together%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" alt="Divider"/>
 </div>
 
-<p align="center">
+<div align="center">
+  <p><i>✨ Building the future, one line of code at a time</i></p>
   <img src="https://komarev.com/ghpvc/?username=Maxorleans55&style=flat-square&color=00D9FF" alt="Views"/>
-  <br/>
-  <i>✨ Building the future, one line of code at a time</i>
-</p>
+</div>
