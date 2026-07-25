@@ -90,6 +90,9 @@
   <a href="https://twitch.tv/max_orleans55" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" height="40"/>
   </a>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b74b4b&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
 </p>
 
 ---
