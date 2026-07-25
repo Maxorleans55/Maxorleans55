@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/sparkles.svg" width="24" height="24" alt="Sparkles"/> About
+## ✨ About
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&duration=5000&pause=800&color=00D9FF&center=true&width=600&lines=Crafting+Digital+Experiences;Modern+Frontend+Developer;Always+Learning%2C+Always+Growing" alt="Typing Animation"/>
@@ -16,23 +16,20 @@
 
 ---
 
-## 🎯 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bullseye.svg" width="24" height="24" alt="Target"/> What I Do
+## 🎯 What I Do
 
 <table width="100%" align="center" cellpadding="20">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="40" height="40" alt="Code"/>
-      <h3>Code</h3>
+      <h3>💻 Code</h3>
       <p>Clean, modern JavaScript</p>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/palette.svg" width="40" height="40" alt="Design"/>
-      <h3>Design</h3>
+      <h3>🎨 Design</h3>
       <p>Beautiful interfaces</p>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/rocket.svg" width="40" height="40" alt="Rocket"/>
-      <h3>Build</h3>
+      <h3>🚀 Build</h3>
       <p>Deploy fast solutions</p>
     </td>
   </tr>
@@ -40,7 +37,7 @@
 
 ---
 
-## 💻 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/laptop.svg" width="24" height="24" alt="Laptop"/> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -60,7 +57,7 @@
 
 ---
 
-## 📊 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-simple.svg" width="24" height="24" alt="Stats"/> Stats
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maxorleans55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
@@ -72,45 +69,37 @@
 
 ---
 
-## 🏆 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/star.svg" width="24" height="24" alt="Star"/> Featured
+## 🏆 Featured
 
 <h3 align="center">📚 School Management System</h3>
 <p align="center"><i>Complete capstone project | Java • Architecture • Scalability</i></p>
 
 ---
 
-## 🌐 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="24" height="24" alt="Globe"/> Connect
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/maxwell-agyakwa-otsiwa" target="_blank">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Maxorleans55" target="_blank">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="32" height="32" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:maotsiwa@st.ug.edu.gh" target="_blank">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="32" height="32" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://twitch.tv/max_orleans55" target="_blank">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitch.svg" width="32" height="32" alt="Twitch"/>
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
 </p>
 
 ---
 
-<!-- Decorative Middle Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" alt="Divider" width="100%"/>
-
----
-
-## 🎨 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/wand-magic-sparkles.svg" width="24" height="24" alt="Magic"/> Skills
+## 🎨 Skills
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/zap.svg" width="20" height="20" alt="Lightning"/> | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/paint-brush.svg" width="20" height="20" alt="Design"/> | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/wrench.svg" width="20" height="20" alt="Tools"/> |
+| ⚡ | 🎭 | 🔧 |
 |:---:|:---:|:---:|
 | **Performance** | **UI/UX** | **Architecture** |
 | Fast & Responsive | Beautiful Design | Scalable Code |
@@ -119,12 +108,12 @@
 
 ---
 
-## 📈 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-trend-up.svg" width="24" height="24" alt="Growth"/> Learning Path
+## 📈 Learning Path
 
 <p align="center">
   <code>System Design</code> • 
   <code>Design Patterns</code> • 
-  <code>Performance Optimization</code>
+  <code>Performance</code>
 </p>
 
 ---
