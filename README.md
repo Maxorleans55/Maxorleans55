@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b74b4b&height=200&section=header&text=Max's%20Portfolio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Student%20%7C%20Ghana&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=564a59&height=200&section=header&text=Max's%20Portfolio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CS%20Student%20%7C%20Ghana&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" height="40"/>
   </a>
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b74b4b&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=564a59&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
 </p>
 
