@@ -59,8 +59,7 @@
 ## 📊 GitHub Contributions
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxorleans55&theme=tokyonight&hide_border=true&card_width=800&background=141321&stroke=000000&ring=b74b4b&fire=b74b4b&currStreakLabel=b74b4b)](https://github.com/Maxorleans55)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="100%"/></a>
 
 <br/>
 
