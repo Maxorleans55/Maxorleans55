@@ -19,11 +19,6 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
-
----
-
-## 💫 About
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=4000&pause=1000&color=00D9FF&center=true&width=500&lines=Building+beautiful+web+experiences;Passionate+about+clean+code;Always+growing+and+learning" alt="Typing"/>
