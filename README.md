@@ -57,9 +57,6 @@
 
 <div align="center">
 
-| Total Contributions | Streak Status | Active Since |
-|:---:|:---:|:---:|
-| **180+** | 🔥 Active | **2025** |
 
 </div>
 
