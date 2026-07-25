@@ -47,6 +47,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
+## 📊 GitHub Contributions
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxorleans55&theme=tokyonight&hide_border=true)](https://github.com/Maxorleans55)
+
+</div>
+
+<div align="center">
+
+| Total Contributions | Streak Status | Active Since |
+|:---:|:---:|:---:|
+| **180+** | 🔥 Active | **2025** |
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
+
 ## 🌐 Let's Connect
 
 <p align="center">
