@@ -19,13 +19,6 @@
 </p>
 
 
-
-<!-- Stylish Header -->
-<div align="center">
-  <h1>✨ Maxwell Agyakwa ✨</h1>
-  <p><i>Frontend Developer | Creator | Innovator</i></p>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
 ---
