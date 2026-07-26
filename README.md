@@ -19,8 +19,7 @@
 </p>
 # 👋 About Me
 
-I'm **Maxwell**, a Computer Science student at the **University of Ghana** with a genuine curiosity for how things work and a drive to solve real problems. 
-
+## I'm **Maxwell**, a Computer Science student at the **University of Ghana** with a genuine curiosity for how things work and a drive to solve real problems.
 
 > *"The best way to predict the future is to invent it."*
 
