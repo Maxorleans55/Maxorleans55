@@ -22,7 +22,8 @@
 # 👋 About Me
 
 <h3>I'm <b>Maxwell</b>, a Computer Science student at the <b>University of Ghana</b> with a genuine curiosity for how things work and a drive to solve real problems.</h3>
-> * "The best way to predict the future is to invent it."*
+
+> *"The best way to predict the future is to invent it."*
 
 
 
