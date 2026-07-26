@@ -21,15 +21,6 @@
 
 I'm **Maxwell**, a Computer Science student at the **University of Ghana** with a genuine curiosity for how things work and a drive to solve real problems. 
 
-🌟 I believe in the power of technology to create positive change, and I'm passionate about learning something new every day.
-
-🎯 When I'm not coding, you'll find me exploring creative ideas, engaging with my community, or pushing myself to be better than I was yesterday.
-
-💪 I'm driven by authenticity and collaboration, and I thrive in environments where I can grow alongside others.
-
-🚀 Based in Ghana, I'm excited about the opportunities ahead and eager to make meaningful contributions to projects I care about.
-
----
 
 > *"The best way to predict the future is to invent it."*
 
