@@ -17,9 +17,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B74B4B&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Pixel-Perfect+UI+Craftsman+%F0%9F%8E%A8;CS+Student+%40+University+of+Ghana+%F0%9F%8E%93;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-# About Me
+# 👋 About Me
 
-I'm Maxwell, a Computer Science student at the University of Ghana with a genuine curiosity for how things work and a drive to solve real problems. I believe in the power of technology to create positive change, and I'm passionate about learning something new every day. When I'm not coding, you'll find me exploring creative ideas, engaging with my community, or pushing myself to be better than I was yesterday. I'm driven by authenticity and collaboration, and I thrive in environments where I can grow alongside others. Based in Ghana, I'm excited about the opportunities ahead and eager to make meaningful contributions to projects I care about.
+I'm **Maxwell**, a Computer Science student at the **University of Ghana** with a genuine curiosity for how things work and a drive to solve real problems. 
+
+🌟 I believe in the power of technology to create positive change, and I'm passionate about learning something new every day.
+
+🎯 When I'm not coding, you'll find me exploring creative ideas, engaging with my community, or pushing myself to be better than I was yesterday.
+
+💪 I'm driven by authenticity and collaboration, and I thrive in environments where I can grow alongside others.
+
+🚀 Based in Ghana, I'm excited about the opportunities ahead and eager to make meaningful contributions to projects I care about.
+
+---
+
+> *"The best way to predict the future is to invent it."*
 
 
 
