@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://maxorleans55.github.io/Portfolio-Application-/">
-    <img src="./assets/hero-3d.svg" alt="Maxwell, frontend developer and UI/UX designer, Computer Science at the University of Ghana" width="100%"/>
+    <img src="./assets/hero-3d.svg" alt="Maxwell, frontend developer and Digital Forensic expert, Computer Science at the University of Ghana" width="100%"/>
   </a>
 </p>
 
