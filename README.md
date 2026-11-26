@@ -1,114 +1,76 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=95439e&height=200&section=header&text=Max%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Digital%20Forensics%20Enthusiast%20%7C%20CS%20Student%20%7C%20Ghana&descAlignY=60&descAlign=50" width="100%"/>
-</p>
-
-<p align="center">
   <a href="https://maxorleans55.github.io/Portfolio-Application-/">
-    <img src="https://img.shields.io/badge/%20Live%20Demo-Visit%20Portfolio-b74b4b?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+    <img src="./assets/hero-3d.svg" alt="Maxwell, frontend developer and UI/UX designer, Computer Science at the University of Ghana" width="100%"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Made%20with-%20in%20Ghana-gold?style=for-the-badge" alt="Made in Ghana"/>
 </p>
-
-<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B74B4B&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Pixel-Perfect+UI+Craftsman+%F0%9F%8E%A8;CS+Student+%40+University+of+Ghana+%F0%9F%8E%93;Digital+Forensic+Enthusiast+%F0%9F%94%8D;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://maxorleans55.github.io/Portfolio-Application-/"><img src="https://img.shields.io/badge/Portfolio-Open%20site-8b5cf6?style=flat-square&labelColor=07061a" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/maxwell-agyakwa-otsiwa"><img src="https://img.shields.io/badge/LinkedIn-Connect-5eead4?style=flat-square&logo=linkedin&logoColor=5eead4&labelColor=07061a" alt="LinkedIn"/></a>
+  <a href="mailto:maotsiwa@st.ug.edu.gh"><img src="https://img.shields.io/badge/Email-Say%20hello-f5c542?style=flat-square&logo=gmail&logoColor=f5c542&labelColor=07061a" alt="Email"/></a>
+  <a href="https://twitch.tv/max_orleans55"><img src="https://img.shields.io/badge/Twitch-Watch-a78bfa?style=flat-square&logo=twitch&logoColor=a78bfa&labelColor=07061a" alt="Twitch"/></a>
 </p>
-
-
-# 👋 About Me
-
-<h3>I'm <b>Maxwell</b>, a Computer Science student at the <b>University of Ghana</b> with a genuine curiosity for how things work and a drive to solve real problems.</h3>
-
-> *"The best way to predict the future is to invent it."*
-
-
-
-
-
----
-
-## 🚀 TECH STACK
-
-<div align="left">
-  
-### Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="50"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="50"/>
-
-### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="50"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="50"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="50"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="50"/>
-
-### Backend & Tools
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="50"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" height="50"/>
-
-
-### Design & Creative
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="50"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="50"/>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
-## 📊 GitHub Contributions
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="100%"/></a>
-
-<br/>
-
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maxorleans55&theme=react-dark&hide_border=true&area=true&width=900)](https://github.com/Maxorleans55)
-
-</div>
-
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
-
-## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/maxwell-agyakwa-otsiwa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Maxorleans55" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:maotsiwa@st.ug.edu.gh" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitch.tv/max_orleans55" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" height="40"/>
-  </a>
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=95439e&height=120&section=footer&animation=fadeIn" width="100%"/>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=I+design+in+Figma+and+ship+in+React;Building+an+end-to-end+encrypted+chat+app;Curious+about+digital+forensics;Open+to+internships+and+collaborations" alt="What I'm doing"/>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" aria-hidden="true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
+## About me
 
-<div align="center">
-  <p><i>✨ Building amazing experiences with code</i></p>
-  <img src="https://komarev.com/ghpvc/?username=Maxorleans55&style=flat-square&color=00D9FF" alt="Views"/>
-</div>
+I'm a Computer Science student at the University of Ghana who moves between design and code. I start with research and wireframes in Figma, then build the result in React and React Native. Lately I've been working in 3D on the web with Three.js, and spending my spare time on digital forensics.
+
+<img src="./assets/divider.svg" width="100%" aria-hidden="true"/>
+
+## What I'm building
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Maxorleans55/e2ee-couple-app">UsTwo</a></h3>
+      An end-to-end encrypted chat app for couples.<br/><br/>
+      <sub>React Native, Expo</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Maxorleans55/christmas-tree-gallery">Christmas Tree Gallery</a></h3>
+      A 3D Christmas tree decorated with your own photos and videos.<br/><br/>
+      <sub>React, Three.js</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://maxorleans55.github.io/Portfolio-Application-/">Portfolio</a></h3>
+      My work and case studies in one place.<br/><br/>
+      <sub>HTML, CSS, JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" aria-hidden="true"/>
+
+## Tools I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,py,php,react,threejs,html,css,bootstrap,nodejs,firebase,git,github,figma&perline=8&theme=dark" alt="JavaScript, C++, Java, Python, PHP, React, Three.js, HTML, CSS, Bootstrap, Node.js, Firebase, Git, GitHub, Figma"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-07061a?style=flat-square&logo=react&logoColor=5eead4" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-07061a?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Canva-07061a?style=flat-square&logo=canva&logoColor=5eead4" alt="Canva"/>
+</p>
+
+<img src="./assets/divider.svg" width="100%" aria-hidden="true"/>
+
+## My year in 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxorleans55&bg_color=07061a&color=c4b5fd&line=8b5cf6&point=5eead4&area=true&area_color=8b5cf6&hide_border=true" alt="Contribution activity" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maxorleans55&style=flat-square&color=8b5cf6&label=Profile+views" alt="Profile views"/>
+</p>
