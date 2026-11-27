@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://maxorleans55.github.io/Portfolio-Application-/">
-    <img src="./assets/hero-3d.svg" alt="Max, frontend developer and Digital Forensic expert, Computer Science at the University of Ghana" width="100%"/>
+    <img src="./assets/hero-3d.svg" alt="Maxmillian, digital forensics enthusiast and frontend developer, Computer Science at the University of Ghana" width="100%"/>
   </a>
 </p>
 
@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=I+design+in+Figma+and+ship+in+React;Building+an+end-to-end+encrypted+chat+app;Curious+about+digital+forensics;Open+to+internships+and+collaborations" alt="What I'm doing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&lines=Digital+forensics+enthusiast;Building+an+end-to-end+encrypted+chat+app;Frontend+developer+in+React;Open+to+internships+and+collaborations" alt="What I'm doing"/>
 </p>
 
 <img src="./assets/divider.svg" width="100%" aria-hidden="true"/>
 
 ## About me
 
-I'm a Computer Science student at the University of Ghana who moves between design and code. I start with research and wireframes in Figma, then build the result in React and React Native. Lately I've been working in 3D on the web with Three.js, and spending my spare time on digital forensics.
+I'm a Computer Science student at the University of Ghana with a focus on digital forensics: how evidence is found, preserved, and pieced back together from digital systems. Alongside that, I build for the web and mobile in React and React Native, and lately I've been working in 3D with Three.js. My encrypted chat app, UsTwo, is where the two interests meet.
 
 <img src="./assets/divider.svg" width="100%" aria-hidden="true"/>
 
@@ -38,9 +38,9 @@ I'm a Computer Science student at the University of Ghana who moves between desi
       <sub>React, Three.js</sub>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://maxorleans55.github.io/Portfolio-Application-/">Portfolio</a></h3>
-      My work and case studies in one place.<br/><br/>
-      <sub>HTML, CSS, JavaScript</sub>
+      <h3><a href="https://github.com/Maxorleans55/multi-bot">Multi Bot</a></h3>
+      One bot that handles several jobs from a single place.<br/><br/>
+      <sub>JavaScript, Node.js</sub>
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ I'm a Computer Science student at the University of Ghana who moves between desi
 ## Tools I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,java,py,php,react,threejs,html,css,bootstrap,nodejs,firebase,git,github,figma&perline=8&theme=dark" alt="JavaScript, C++, Java, Python, PHP, React, Three.js, HTML, CSS, Bootstrap, Node.js, Firebase, Git, GitHub, Figma"/>
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,py,php,react,threejs,html,css,bootstrap,nodejs,firebase,git,github,linux&perline=8&theme=dark" alt="JavaScript, C++, Java, Python, PHP, React, Three.js, HTML, CSS, Bootstrap, Node.js, Firebase, Git, GitHub, Linux"/>
 </p>
 
 <p align="center">
